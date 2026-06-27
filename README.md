@@ -1,0 +1,1 @@
+# Arquitetura-de-Alta-Disponibilidade-na-Oracle-Cloud-Infrastructure-OCI-
